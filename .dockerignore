@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.git
+.gocache
+bin
+coverage.out
+*.log
+**/node_modules
+**/target
